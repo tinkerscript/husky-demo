@@ -1,1 +1,3 @@
-console.log('no-console: error')
+// random comment
+var x = 0;
+var y = 0;
