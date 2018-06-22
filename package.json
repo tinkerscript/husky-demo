@@ -1,0 +1,20 @@
+{
+  "name": "husky-demo",
+  "version": "0.0.0",
+  "description": "lint before commit and test before push with husky",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinkerscript/husky-demo.git"
+  },
+  "author": "tinkerscript",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinkerscript/husky-demo/issues"
+  },
+  "homepage": "https://github.com/tinkerscript/husky-demo#readme"
+}
