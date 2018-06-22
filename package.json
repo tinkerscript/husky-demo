@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/tinkerscript/husky-demo/issues"
   },
-  "homepage": "https://github.com/tinkerscript/husky-demo#readme"
+  "homepage": "https://github.com/tinkerscript/husky-demo#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "eslint": "^4.19.1"
+  }
 }
