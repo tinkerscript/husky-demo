@@ -19,6 +19,9 @@
     "url": "https://github.com/tinkerscript/husky-demo/issues"
   },
   "homepage": "https://github.com/tinkerscript/husky-demo#readme",
+  "lint-staged": {
+    "*.js": "eslint"
+  },
   "devDependencies": {
     "babel-eslint": "8.2.3",
     "eslint": "4.19.1",
